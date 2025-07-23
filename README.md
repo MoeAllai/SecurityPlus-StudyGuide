@@ -1,4 +1,4 @@
-# Security+ Study Guide (SY0-601)
+# Security+ Study Guide (SY0-701)
 
 ✅ Passed the CompTIA Security+ exam. This repo is a structured breakdown of all domains with examples and explanations.
 
